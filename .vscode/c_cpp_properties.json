@@ -1,0 +1,57 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "{",
+                "  \"configurations\": [",
+                "    {",
+                "      \"name\": \"Win32\",",
+                "      \"includePath\": [",
+                "        \"${workspaceFolder}/**\",",
+                "        \"${workspaceFolder}/include\",",
+                "        \"C:/Users/voges/OneDrive/Desktop/Smart Cattle Project-git/include\"",
+                "      ],",
+                "      \"defines\": [],",
+                "      \"compilerPath\": \"C:/mingw64/bin/g++.exe\",",
+                "      \"cStandard\": \"c17\",",
+                "      \"cppStandard\": \"c++17\",",
+                "      \"intelliSenseMode\": \"windows-gcc-x64\"",
+                "    }",
+                "  ],",
+                "  \"version\": 4",
+                "}"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "c17"
+        },
+        {
+            "name": "wifi",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": ".h",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
